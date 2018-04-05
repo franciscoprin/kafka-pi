@@ -4,15 +4,15 @@
     - **Option 2:** After install docker, cd inside this folder, and write `docker-compose up`
         + In your browser write `localhost:9000`
         +**Create a broker**
-            * <img src="./Images/Cluster.png" width="700 px" height="500 px"/>
+            * <img src="./Images/Cluster.png" width="600 px" height="300 px"/>
         + **Change only the sections bellow then screw down and finally press `save`**
-            * <img src="https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Parameters.png" width="100" height="100"/>" 
+            * <img src="./Images/Parameters.png" width="600 px" height="300 px"/>
         + **Select  `Go to cluster view`**
-            * [[./Images/ClusterView.png]]
+            * <img src="./Images/ClusterView.png" width="600 px" height="300 px"/>
         + **Crete a topic** 
-            * ![ScreenShot](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Topic.png)
+            * <img src="./Images/Topic.png" width="600 px" height="300 px"/>
         + **Type a topic and press enter** 
-            * ![ScreenShot](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/SettingTopic.png)
+            * img src="./Images/SettingTopic.png" width="600 px" height="300 px"/>
         + **Go inside of the folder Example1 in this directory and run `main.py`**
              
 ## Installation Steps:
