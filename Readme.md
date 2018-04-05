@@ -1,6 +1,7 @@
 ## Quick Start:
 - Start Kafka
-    - **Option 1:** Follow quick start
+    - **Option 1:** Follow instruction in quick start
+        * [Link](https://kafka.apache.org/quickstart)
     - **Option 2:** After install docker, cd inside this folder, and write `docker-compose up`
         + In your browser write `localhost:9000`
         + **Create a broker**
@@ -15,7 +16,7 @@
             * img src="./Images/SettingTopic.png" width="600 px" height="400 px"/>
         + **Go inside of the folder Example1 in this directory and run `main.py`**
              
-## Installation Steps:
+## Rasberry Pi Installation Steps:
 - Install `RASPBIAN STRETCH LITE`
     + [Link](https://www.raspberrypi.org/downloads/raspbian/)
 - **first time that you log in typpe this user name and password.**
