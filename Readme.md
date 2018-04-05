@@ -4,7 +4,7 @@
     - **Option 2:** After install docker, cd inside this folder, and write `docker-compose up`
         + In your browser write `localhost:9000`
         +**Create a broker**
-            * <img src="./Images/Cluster.png" width="30 px" height="60 px"/>
+            * <img src="./Images/Cluster.png" width="900 px" height="900 px"/>
         + **Change only the sections bellow then screw down and finally press `save`**
             * <img src="https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Parameters.png" width="100" height="100"/>" 
         + **Select  `Go to cluster view`**
