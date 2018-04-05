@@ -3,16 +3,16 @@
     - **Option 1:** Follow quick start
     - **Option 2:** After install docker, cd inside this folder, and write `docker-compose up`
         + In your browser write `localhost:9000`
-        +**Create a broker**
+        + **Create a broker**
             * <img src="./Images/Cluster.png" width="600 px" height="300 px"/>
         + **Change only the sections bellow then screw down and finally press `save`**
-            * <img src="./Images/Parameters.png" width="600 px" height="300 px"/>
+            * <img src="./Images/Parameters.png" width="600 px" height="500 px"/>
         + **Select  `Go to cluster view`**
             * <img src="./Images/ClusterView.png" width="600 px" height="300 px"/>
         + **Crete a topic** 
             * <img src="./Images/Topic.png" width="600 px" height="300 px"/>
         + **Type a topic and press enter** 
-            * img src="./Images/SettingTopic.png" width="600 px" height="300 px"/>
+            * img src="./Images/SettingTopic.png" width="600 px" height="400 px"/>
         + **Go inside of the folder Example1 in this directory and run `main.py`**
              
 ## Installation Steps:
