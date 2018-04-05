@@ -1,14 +1,20 @@
 ## Quick Start:
 - Start Kafka
     - **Option 1:** Follow quick start
-    - **Option 2:** After install docker Cd inside this folder and write `docker-compose up`
+    - **Option 2:** After install docker, cd inside this folder, and write `docker-compose up`
         + In your browser write `localhost:9000`
-        + Create a broker:
-            ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-            
-
-
-
+        +**Create a broker**
+            * ![alt text](https://github.com/franciscoprin/RealTimeSetting/images/Cluster.png)
+        + **Change only the sections bellow then screw down and finally press `save`**
+            * ![alt text](https://github.com/franciscoprin/RealTimeSetting/images/Parameters.png)
+        + **Select  `Go to cluster view`**
+            * ![alt text](https://github.com/franciscoprin/RealTimeSetting/images/ClusterView.png)
+        + **Crete a topic** 
+            * ![alt text](https://github.com/franciscoprin/RealTimeSetting/images/Topic.png)
+        + **Type a topic and press enter** 
+            * ![alt text](https://github.com/franciscoprin/RealTimeSetting/images/SettingTopic.png)
+        + **Go inside of the folder Example1 in this directory and run `main.py`**
+             
 ## Installation Steps:
 - Install `RASPBIAN STRETCH LITE`
     + [Link](https://www.raspberrypi.org/downloads/raspbian/)
