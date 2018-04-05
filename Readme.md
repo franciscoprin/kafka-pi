@@ -4,15 +4,15 @@
     - **Option 2:** After install docker, cd inside this folder, and write `docker-compose up`
         + In your browser write `localhost:9000`
         +**Create a broker**
-            * ![myimage-alt-tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Cluster.png)
+            * ![alt tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Cluster.png)
         + **Change only the sections bellow then screw down and finally press `save`**
-            * ![myimage-alt-tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Parameters.png)
+            * ![alt tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Parameters.png)
         + **Select  `Go to cluster view`**
-            * ![myimage-alt-tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/ClusterView.png)
+            * ![alt tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/ClusterView.png)
         + **Crete a topic** 
-            * ![myimage-alt-tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Topic.png)
+            * ![alt tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Topic.png)
         + **Type a topic and press enter** 
-            * ![myimage-alt-tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/SettingTopic.png)
+            * ![alt tag](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/SettingTopic.png)
         + **Go inside of the folder Example1 in this directory and run `main.py`**
              
 ## Installation Steps:
