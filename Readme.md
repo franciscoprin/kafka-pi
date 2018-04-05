@@ -4,11 +4,11 @@
     - **Option 2:** After install docker, cd inside this folder, and write `docker-compose up`
         + In your browser write `localhost:9000`
         +**Create a broker**
-            * <img src="./Images/Cluster.png" width="700 px" height="600 px"/>
+            * <img src="./Images/Cluster.png" width="700 px" height="500 px"/>
         + **Change only the sections bellow then screw down and finally press `save`**
             * <img src="https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Parameters.png" width="100" height="100"/>" 
         + **Select  `Go to cluster view`**
-            * [[https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/ClusterView.png]]
+            * [[./Images/ClusterView.png]]
         + **Crete a topic** 
             * ![ScreenShot](https://github.com/franciscoprin/RealTimeSetting/tree/master/Images/Topic.png)
         + **Type a topic and press enter** 
