@@ -1,0 +1,53 @@
+Producer: 10.0.75.1:8282
+Consumer: 10.0.75.1.8:8283
+Kafka: 10.0.75.1:9092
+zookerper: 10.0.75.1:2181
+raspberry29
+bin\kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test
+
+bin\windows\kafka-topics.bat --list --zookeeper localhost:2181
+
+
+bin\windows\kafka-topics.bat --list --zookeeper localhost:2181
+
+bin\windows\kafka-topics.sh --list --zookeeper 52.186.81.99:2181
+
+
+.\kafka-console-consumer.bat --bootstrap-server 52.186.81.99:9092 --topic test
+producer:
+
+bin\kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test
+
+
+
+
+==========
+
+what is a thread?
+
+What is a process?
+How do thread and processes look like in windows?
+How do thread and processes look like in linux?
+how I do treading in Python?
+How does a semaphore work (python)?
+What is a deadlock?
+How do you pool in Kafka?
+What is a race condition?
+
+======
+Save data with a universal time...
+
+
+bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic test
+consumer:
+bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test --from-beginning
+docker run -d --name zookeeper --publish 2181:2181 zookeeper:3.4
+docker run -d --hostname localhost --name kafka --volume C:\Users\franciscoprin\Desktop\kafka-ex\data:/data --volume C:\Users\franciscoprin\Desktop\kafka-ex\logs:/logs --publish 9092:9092 --publish 7203:7203 --env KAFKA_ADVERTISED_HOST_NAME=127.0.0.1 --env ZOOKEEPER_IP=127.0.0.1 ches/kafka
+docker run -d --hostname localhost --name kafka --volume C:\Users\franciscoprin\Desktop\kafka-ex\data:/data --volume C:\Users\franciscoprin\Desktop\kafka-ex\logs:/logs --publish 9092:9092 --publish 7203:7203 --env ZOOKEEPER_IP=127.0.0.1 ches/kafk
+################################################################################
+################## ###########################
+################################################################################
+
+
+
+
