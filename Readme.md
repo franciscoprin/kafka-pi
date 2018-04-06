@@ -13,7 +13,7 @@
         + **Crete a topic** 
             * <img src="./Images/Topic.png" width="600 px" height="300 px"/>
         + **Type a topic and press enter** 
-            * img src="./Images/SettingTopic.png" width="600 px" height="400 px"/>
+            * <img src="./Images/SettingTopic.png" width="600 px" height="400 px"/>
         + **Go inside of the folder Example1 in this directory and run `main.py`**
              
 ## Raspberry Pi Set Up:
@@ -36,7 +36,7 @@
          * [Link](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-debian-8)
 - **Install python-kafka:**
     + ` $ pip install kafka-python` 
-- **Set up wifi **
+- **Set up wifi**
     + Change the file in `"/etc/network/interfaces.d"` with.
             
             auto lo
