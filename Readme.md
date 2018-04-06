@@ -53,7 +53,7 @@
                 wpa-psk "5124223639"
 
                 
-- ** Connect remotely to raspberry pi with IP address. **
+- **Connect remotely to raspberry pi with IP address.**
     + Connect with GitBash
         * Open Git Bahs
         * Type
@@ -82,7 +82,7 @@
                 + enable VNC Server by doing the following:
                     * Navigate to Interfacing Options.
                     * Scroll down and select VNC > Yes.
-- Wired the button to pings 7 and 12: 
+- **Wired the button to pings 7 and 12:** 
     +  <img src="./Images/SetUP.PNG" width="600 px" height="500 px"/>
 
 ## Important commands and information:
