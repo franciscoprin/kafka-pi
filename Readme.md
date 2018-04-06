@@ -83,7 +83,7 @@
                     * Navigate to Interfacing Options.
                     * Scroll down and select VNC > Yes.
 - Wired the button to pings 7 and 12: 
-    +  <img src="./Images/SetUP.PNG" width="600 px" height="300 px"/>
+    +  <img src="./Images/SetUP.PNG" width="600 px" height="500 px"/>
 
 ## Important commands and information:
 - **Shoutdown Raspberry:**
