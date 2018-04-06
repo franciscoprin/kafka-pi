@@ -36,7 +36,7 @@
          * [Link](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-debian-8)
 - **Install python-kafka:**
     + ` $ pip install kafka-python` 
-- ** Set up wifi **
+- **Set up wifi **
     + Change the file in `"/etc/network/interfaces.d"` with.
             
             auto lo
@@ -83,7 +83,7 @@
                     * Navigate to Interfacing Options.
                     * Scroll down and select VNC > Yes.
 - ** Wired the button to pings 7 and 12: ** 
-    +  <img src="./Images/Cluster.png" width="600 px" height="300 px"/>
+    +  <img src="./Images/SetUP.fzz" width="600 px" height="300 px"/>
 
 ## Important commands and information:
 - **Shoutdown Raspberry:**
