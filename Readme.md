@@ -82,8 +82,8 @@
                 + enable VNC Server by doing the following:
                     * Navigate to Interfacing Options.
                     * Scroll down and select VNC > Yes.
-- ** Wired the button to pings 7 and 12: ** 
-    +  <img src="./Images/SetUP.fzz" width="600 px" height="300 px"/>
+- Wired the button to pings 7 and 12: 
+    +  <img src="./Images/SetUP.PNG" width="600 px" height="300 px"/>
 
 ## Important commands and information:
 - **Shoutdown Raspberry:**
